@@ -4,8 +4,7 @@ email: j1wilmot@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, we're Crystal and Jeremy. We're travelling and sharing what we find here. Keep smiling friends!
 baseurl: "/travel_blog" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-#url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://j1wilmot.github.io" # the base hostname & protocol for your site
 twitter_username: jeranimot
 github_username:  j1wilmot
 
